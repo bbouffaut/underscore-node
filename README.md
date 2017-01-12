@@ -1,3 +1,9 @@
+BBO Updates
+==============================
+
+Implement latest underscore-js functions that are not present yet in nodejs version 
+
+
 What is Underscore for Node.js
 ==============================
 
