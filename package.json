@@ -1,6 +1,6 @@
 {
   "name": "underscore-node_bbo",
-  "version": "0.1.3_bbo",
+  "version": "0.1.3",
   "description": "Underscore for Node.js without cross-browser checks",
   "main": "lib/underscore.js",
   "scripts": {
